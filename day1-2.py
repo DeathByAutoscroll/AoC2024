@@ -1,9 +1,7 @@
 from collections import Counter
 
 f = open("input/day1.txt", "r")
-
 inputdata = f.readlines()
-
 f.close()
 
 leftlist = []
